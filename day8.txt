@@ -1,1 +1,2 @@
 This is my day 8 
+Logo allignment is center!
